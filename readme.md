@@ -1,1 +1,3 @@
-<p>This is Mobin Afshari 's resume.please get the pdf file and read it.</p>
+<p>This is my resume, feel free to download the PDF and leave a note with your thoughts!
+
+</p>
